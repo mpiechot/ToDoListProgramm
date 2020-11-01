@@ -1,0 +1,14 @@
+D:\GitHub\ToDoListProgramm\ToDoListManager\ToDoListManager\bin\Debug\ToDoListManager.exe.config
+D:\GitHub\ToDoListProgramm\ToDoListManager\ToDoListManager\bin\Debug\ToDoListManager.exe
+D:\GitHub\ToDoListProgramm\ToDoListManager\ToDoListManager\bin\Debug\ToDoListManager.pdb
+D:\GitHub\ToDoListProgramm\ToDoListManager\ToDoListManager\obj\Debug\ToDoListManager.csprojAssemblyReference.cache
+D:\GitHub\ToDoListProgramm\ToDoListManager\ToDoListManager\obj\Debug\ToDoListManager.Properties.Resources.resources
+D:\GitHub\ToDoListProgramm\ToDoListManager\ToDoListManager\obj\Debug\ToDoListManager.csproj.GenerateResource.cache
+D:\GitHub\ToDoListProgramm\ToDoListManager\ToDoListManager\obj\Debug\ToDoListManager.csproj.CoreCompileInputs.cache
+D:\GitHub\ToDoListProgramm\ToDoListManager\ToDoListManager\obj\Debug\ToDoListManager.exe
+D:\GitHub\ToDoListProgramm\ToDoListManager\ToDoListManager\obj\Debug\ToDoListManager.pdb
+D:\GitHub\ToDoListProgramm\ToDoListManager\ToDoListManager\obj\Debug\ToDoListManager.programBackground.resources
+D:\GitHub\ToDoListProgramm\ToDoListManager\ToDoListManager\obj\Debug\ToDoListManager.Windows.NewProjectWindow.NewProject.resources
+D:\GitHub\ToDoListProgramm\ToDoListManager\ToDoListManager\obj\Debug\ToDoListManager.Util.TaskForm.TaskForm.resources
+D:\GitHub\ToDoListProgramm\ToDoListManager\ToDoListManager\bin\Debug\Control.Draggable.dll
+D:\GitHub\ToDoListProgramm\ToDoListManager\ToDoListManager\obj\Debug\ToDoListManager.csproj.CopyComplete
